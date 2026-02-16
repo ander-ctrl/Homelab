@@ -49,6 +49,23 @@ Virtual Machines:
 
 ---
 
+## Lab Log
+### Lab 1 - Kali Linux Setup 
+Date: February 2026
+
+Actions performed: 
+- Installed VirtualBox
+- Created Kali Linux virtual machine
+- Allocated RAM and storage
+- Booted into Kali Linux successfully
+- Accessed terminal
+
+Commands tested:
+whoami
+ip a
+ping google.com
+
+Result : Successfully configured attacker machine.
 ## Goals
 
 - Build a complete testing environment
